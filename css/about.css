@@ -1,0 +1,30 @@
+#about-cotainer{
+    max-width: 860px;
+}
+.about{
+    font-size: 30px;
+    padding-top: 100px;
+    text-transform: capitalize;
+    color: rgb(65, 66, 66);
+    padding-left: 25px;
+    padding-right: 25;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.about-conect{
+    font-size: 30px;
+    padding-top: 50px;
+    text-transform: capitalize;
+    color: rgb(65, 66, 66);
+    padding-left: 25px;
+    padding-right: 25;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#about-text{
+    margin-top: 3px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    padding-left: 25px; 
+    text-align: justify;
+    padding-right: 25px;  
+}

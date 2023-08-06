@@ -1,0 +1,52 @@
+
+#navbar-css{
+    margin: 0px;
+    margin-top: 0px;
+    padding: 0px;
+}
+#navbar-width{
+    max-width: 800px;
+    background-color: rgb(12, 4, 134);
+    padding-left: 45px;
+    padding-top: 10px;
+}
+.navbar-brand{
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    padding-left: 10px;
+}
+.navbar-toggler{
+    color: rgb(255, 255, 255);
+    
+}
+.navbar-brand:hover{
+    color: rgb(255, 255, 255);
+}
+#home-paage-link:hover{
+    background: rgb(134, 134, 134);
+}
+
+#about-paage-link:hover{
+    background: rgb(151, 151, 151);
+}
+.tog-text{
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.list{
+    color: aliceblue;
+}
+.nav-item{
+    padding-right: 20px;
+    border: none;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+.nav-link{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    font-size: 17px;
+}

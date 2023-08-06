@@ -1,0 +1,244 @@
+
+.container-fluid-body{
+    background-color: rgb(13, 7, 97);
+    max-width: 800px;
+    
+}
+.body-con{
+    max-width: 1000px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#img-home{
+    box-shadow: 2px 3px 3px rgb(102, 103, 104);
+    text-align: center;
+    border-radius:  100% 0% 100% 0% / 41% 65% 35% 59%;
+}
+#img-home:hover{
+    box-shadow: 2px 2px 5px rgb(226, 226, 226);
+}
+
+.web-name{
+    font-size: 35px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: rgb(235, 235, 235);
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text-css{
+    color: rgb(202, 238, 1);
+}
+.strong-man{ 
+    padding-left: 10px;
+    font-size: 19px;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: serif;
+    text-transform: capitalize;
+    color: rgb(245, 244, 244);
+    
+    
+}
+.inheri-text{
+    color: rgb(235, 235, 235);
+}
+#whoami{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 20px;
+}
+.who-hr{
+    margin-top: 6px;
+    padding-top: 3px;
+    color: aliceblue;
+    
+
+}
+
+#iam-power{
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+
+
+
+#img-budha{
+    box-shadow: 2px 3px 3px rgb(230, 73, 73);
+    border-radius: 9px ;
+}
+.life-precious{
+    text-transform: capitalize;
+    text-align: right;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(226, 226, 226);
+    font-family:  serif;
+}
+#life-is-precious{
+    font-size: 19px;
+    text-align: right;
+    padding-top: 10px;
+    font-family: serif;
+    text-transform: capitalize;
+    color: rgb(228, 227, 227);
+}
+#high-value-woman{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: left;
+    text-transform: capitalize;
+    color: rgb(243, 243, 243);
+    font-family: serif;
+   
+}
+.quat{
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+    text-align: left;
+    font-family: serif;
+    text-transform: capitalize;
+    color: rgb(233, 233, 233);
+}
+#manifest-lfet-head{
+    font-size: 25px;
+    font-weight: 600;
+    color: aliceblue;
+    text-transform: capitalize;
+    font-family: serif;
+    text-align: center;
+}
+#manifets-text{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+    text-align: justify;
+    font-family: serif;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+}
+
+/*next Sec */
+#one-q{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+}
+
+.thoughts{
+    font-size: 35px;
+    padding-top: 50px;
+    text-align: center;
+    color: rgb(14, 17, 19);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+ 
+#col-man-woman{
+    background-color: rgb(247, 247, 247);
+    border-radius: 2px;
+    box-shadow: 2px 2px 8px rgb(216, 216, 216);
+}
+
+#love-difference{
+    font-size: 25px;
+
+    padding-bottom: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(3, 3, 3);
+    font-family: serif;
+    background-color: cadetblue;
+}
+
+#what-is-love-text{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+    font-family: serif;
+    text-transform: capitalize;
+    color: rgb(0, 0, 0);
+}
+
+#message-social{
+    font-size: 25px;
+    padding-top: 15px;
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+    font-family: serif;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+#message-social-text{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+    text-align: justify;
+    font-family: serif;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+}
+#treat-woman{
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+    font-family: serif;
+    font-weight: bold;
+}
+#treat-woman-text{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+    text-align: justify;
+    font-family: serif;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+}
+
+#type-woman{
+    font-size: 25px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+    font-family: serif;
+    font-weight: bold;
+    
+}
+#type-woman-text{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+    text-align: justify;
+    font-family: serif;
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+}
